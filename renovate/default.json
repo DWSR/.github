@@ -33,13 +33,4 @@
       "versioningTemplate": "{{#if versioning}}{{versioning}}{{else}}semver{{/if}}"
     }
   ],
-  "hostRules": [
-    {
-      "matchHost": "docker.io",
-      "username": "dwsr",
-      "encrypted": {
-        "password": "wcFMA/xDdHCJBTolAQ//X6R4VWQO+n05vet2gg+5osrEi+AwsriNMFuDuhoxc2Ypm+jZUKjo9nMLKera/EULd7hNji9kWlZOZFTWvkCp3yKPQbchkkI4BKkaiEl3IWPQaR9wcEbKenLsweIBKgrAsTfRkx25tTMweKHME4KdaBfeiLmFLQE9NrlbxaRuB8LdWdW8TwkcFMLTGiW7O/TSWBZoK5lgYJ2MW5mRj2v++ga5l87Y8l3EpAh6S0Kzxd6YF0kP2JRg2hBn5XoKTuqlp6YrorsY6XOpWQk/3FlDIIzUc6U8x/UYkPN8XSh6AwEFdaZHWtFE5cNGuT+gaMPkAi/qYMxHtEDT53fCozlENsfGVKMmWbvhpUOFqnRUOvXMojwsqvPfeq/3HnPyNKHga9Z9jYh+2AFWqGZHIT/OxIS1muXGHqTvu628mVpe62ylhaEDmqxw5rVOhombr7d1mepKRnmBnh+QTsHqvykqOwU9t7HwpjGblpuGDf/y3QTpejAcOwm4eQZ9qjD/xk+X9UDqAzivgCqLrVVrW7ByC33dhlASOIBCpXfMIyC9005hveToXgFWyODAfWNibeWYZVJIot09WYBEdvDxU2ChQwIanMSfJjOwRkbX58jqonM7Jj7sOIg67YD8A5hgFv7y8GFsDoydhpXcjtfaQQ7yPwN473NnwkEECYzHWKkj/NDSgwG93TR1V8vtH963Y1lPdO6r2wiK2/2kEpSV9K0xuCpbW5bORA81GkHjYfzji1gVph2PgmgvgXKm9hEmeZJT2YbJSCVqGhigva+IOsMdkAaGPElkfNel8oQuAS0xMwsovio9+1eCPCJb+W/ElbzHEvl5+S2z9oNyKnPL3uuqpGeNKuRI"
-      }
-    }
-  ]
 }
