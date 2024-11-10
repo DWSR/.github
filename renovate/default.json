@@ -24,7 +24,7 @@
     {
       "customType": "regex",
       "fileMatch": [
-        "(^|/)vendir\.yml$",
+        "(^|/)vendir\\.ya?ml$",
         "^fly.ya?ml$"
       ],
       "matchStrings": [
@@ -32,5 +32,5 @@
       ],
       "versioningTemplate": "{{#if versioning}}{{versioning}}{{else}}semver{{/if}}"
     }
-  ],
+  ]
 }
